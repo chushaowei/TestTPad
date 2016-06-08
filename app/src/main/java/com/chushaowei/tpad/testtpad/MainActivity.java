@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
         //
         Toast.makeText(this, "Hello Git", Toast.LENGTH_LONG).show();
 
+        System.out.println("Hello Git 2");
+
     }
 
 }
